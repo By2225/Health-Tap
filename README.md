@@ -13,5 +13,5 @@ Our Health hack for 2018 DivHacks Hackathon
     * Once someone clicks on the picture, it’ll return the top 3 closest locations and the top 3 highest rating within the state
     * Route patients to the nearest and most cost-effective urgent care choice. Provide directions, travel time, wait times, insurance options, etc.
     * Once a location is press, there will be google maps navigation 
-    * Google maps api
+      * Google maps api
 

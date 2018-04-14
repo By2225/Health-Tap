@@ -1,5 +1,7 @@
 # Health-Tap
-Our Health hack for 2018 DivHacks Hackathon
+Created by Brian Yang and Hussein Fardous
+
+# Our Health hack for 2018 DivHacks Hackathon
 
 * Web app that contains pictures, where if you click on them, a function calls
     *Click on a phone picture that allows you to automatically 911

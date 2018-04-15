@@ -1,5 +1,5 @@
 # Health-Tap
-Created by Brian Yang and Hussein Fardous
+Created by Brian Yang, Anmolpreet Kandola, and Hussein Fardous
 
 # Our Health hack for 2018 DivHacks Hackathon
 

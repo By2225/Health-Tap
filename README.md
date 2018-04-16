@@ -1,4 +1,4 @@
-# Health-Tap
+# Health-Tap (1st Place at Columbia DivHacks Hackathon)
 Created by Brian Yang, Anmolpreet Kandola, and Hussein Fardous
 
 # Our Health hack for 2018 DivHacks Hackathon
